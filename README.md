@@ -28,3 +28,9 @@ I am looking forward to contributing to an innovative company that values growth
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdnazzal&layout=compact&theme=tokyonight)
 
+## 📦 Latest Repositories:
+
+<!-- Latest repos -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohdnazzal&repo=starter-fullstack-boilerplate&theme=tokyonight)](https://github.com/mohdnazzal/starter-fullstack-boilerplate)
+
+
